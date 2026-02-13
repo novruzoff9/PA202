@@ -29,7 +29,6 @@
      - `GetRole()` - "Student" qaytarır
      - `GetInfo()` - base.GetInfo() + student məlumatları
    - **Əlavə method:**
-     - `IsEligibleForScholarship()` - yalnız get, true qaytarır əgər GPA > 85 və Age < 25 olarsa
      - `CalculateYearsUntilGraduation()` - yalnız get, təxminən 4 il təhsil müddəti olduğunu fərz edərək, yaşa əsasən qalan illəri qaytarır (18 yaşında başlayır)
      - `IsGraduated()` - yalnız get, true qaytarır əgər Age >= 22 olarsa
 
