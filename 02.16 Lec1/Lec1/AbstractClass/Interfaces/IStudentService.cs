@@ -2,10 +2,6 @@
 
 namespace AbstractClass.Interfaces;
 
-internal interface IPersonService
-{
-    public void GetName();
-}
 
 internal interface IStudentService
 {
@@ -13,20 +9,20 @@ internal interface IStudentService
     public void GetAll();
 }
 
-internal class StudentService : Student, IStudentService, IPersonService
+internal class StudentService : Student, IStudentService
 {
+    public string Name { get; set; }
+
+    public void Test()
+    {
+        Console.WriteLine("Test");
+    }
+    public void Add(Student student)
+    {
+        throw new NotImplementedException();
+    }
 
     public void GetAll()
-    {
-        throw new NotImplementedException();
-    }
-
-    public void GetName()
-    {
-        throw new NotImplementedException();
-    }
-
-    void IStudentService.Add(Student student)
     {
         throw new NotImplementedException();
     }

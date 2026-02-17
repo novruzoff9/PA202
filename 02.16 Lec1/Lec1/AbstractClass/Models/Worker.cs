@@ -1,6 +1,6 @@
 ﻿namespace AbstractClass.Models;
 
-internal class Worker : Person
+internal sealed class Worker : Person
 {
     public decimal Salary { get; set; }
 

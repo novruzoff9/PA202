@@ -31,3 +31,9 @@ Vehicle vehicle = new();
 
 // private protected, internal protected
 
+
+// Assembly
+
+// internal protected, private protected
+
+// abstract class,  sealed class

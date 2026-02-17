@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|c:\\users\\user\\desktop\\pa202\\02.16 lec1\\lec1\\abstractclass\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|c:\\users\\user\\desktop\\pa202\\02.16 lec1\\lec1\\abstractclass\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|c:\\users\\user\\desktop\\pa202\\02.16 lec1\\lec1\\abstractclass\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|c:\\users\\user\\desktop\\pa202\\02.16 lec1\\lec1\\abstractclass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D878FE07-2F3D-4754-972B-A7FAE3581B8D}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +30,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Models\\Worker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Worker.cs",
+              "RelativeToolTip": "AbstractClass\\Models\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:16:31.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Student.cs",
+              "RelativeToolTip": "AbstractClass\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:16:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Person.cs",
+              "RelativeToolTip": "AbstractClass\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T12:15:59.462Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,15 +81,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "AbstractClass\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Models\\Student.cs",
-              "RelativeToolTip": "AbstractClass\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "AbstractClass\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T11:35:20.203Z",
+              "WhenOpened": "2026-02-16T12:11:19.168Z",
               "EditorCaption": ""
             },
             {
@@ -47,11 +98,11 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Program.cs",
               "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Program.cs*",
-              "RelativeToolTip": "AbstractClass\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PA202\\02.16 Lec1\\Lec1\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T11:04:01.986Z",
+              "WhenOpened": "2026-02-16T12:08:28.379Z",
               "EditorCaption": ""
             }
           ]
