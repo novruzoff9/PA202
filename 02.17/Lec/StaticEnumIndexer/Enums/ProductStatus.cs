@@ -2,6 +2,6 @@
 
 internal enum ProductStatus
 {
-    New = 1,
-    BestSeller = 2
+    New,
+    BestSeller
 }

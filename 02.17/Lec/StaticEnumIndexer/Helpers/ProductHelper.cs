@@ -1,6 +1,4 @@
-﻿using StaticEnumIndexer.Models;
-
-namespace StaticEnumIndexer.Helpers;
+﻿namespace StaticEnumIndexer.Helpers;
 
 internal static class ProductHelper
 {

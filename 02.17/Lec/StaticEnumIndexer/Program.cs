@@ -1,10 +1,4 @@
-﻿using StaticEnumIndexer.Enums;
-using StaticEnumIndexer.Helpers;
-using StaticEnumIndexer.Models;
-using StaticEnumIndexer.Services;
-
-
-//Product product1 = new();
+﻿//Product product1 = new();
 
 //Console.WriteLine("Statik olmayan:" + product1.Id);
 //Console.WriteLine("Statik olan:" + Product.ID);
@@ -84,11 +78,24 @@ using StaticEnumIndexer.Services;
 //User user1 = new() { Name = "Alice", Status = UserStatus.Active };
 //User user2 = new() { Name = "Bob", Status = UserStatus.Blocked };
 
-Product product = new() { Name = "Laptop", Price = 1500, Stock = 5, Status = ProductStatus.New };
+//Product product = new() { Name = "Laptop", Price = 1500, Stock = 5, Status = ProductStatus.New };
 
-if(product.Status == ProductStatus.New && product.Status == ProductStatus.BestSeller)
-{
-    Console.WriteLine("Bu ürün yeni ve çok satanlar arasında");
-}
+//if(product.Status == ProductStatus.New && product.Status == ProductStatus.BestSeller)
+//{
+//    Console.WriteLine("Bu ürün yeni ve çok satanlar arasında");
+//}
+
+
+// Global Using
+
+//Product product = new() { Name = "Laptop", Price = 1500, Stock = 5, Status = ProductStatus.New };
+//Console.WriteLine(product.Id);
+
+//Product.ID = 10;
+//Product product1 = new() { Name = "Smartphone", Price = 800, Stock = 10, Status = ProductStatus.BestSeller };
+//Console.WriteLine(product1.Id);
+
+//string str1 = "hello";
+//char lastLetter = str1.GetLastLetter();
 
 

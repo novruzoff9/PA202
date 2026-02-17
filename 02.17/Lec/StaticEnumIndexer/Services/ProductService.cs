@@ -1,7 +1,4 @@
-﻿using StaticEnumIndexer.Helpers;
-using StaticEnumIndexer.Models;
-
-namespace StaticEnumIndexer.Services;
+﻿namespace StaticEnumIndexer.Services;
 
 internal class ProductService
 {

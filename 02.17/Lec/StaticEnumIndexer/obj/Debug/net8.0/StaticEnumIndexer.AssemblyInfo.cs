@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaticEnumIndexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d7ffc6844d71eaa564dc4c21b50f79480508143")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c29e0be1c037b0edbb0eb26c5b6e2cfb80a6d992")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaticEnumIndexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaticEnumIndexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
